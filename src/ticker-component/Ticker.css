@@ -1,0 +1,71 @@
+.font-type_terminator {
+  font-family: 'Oxanium', cursive;
+}
+
+.font-type_chill {
+  font-family: 'Raleway', sans-serif;
+}
+
+.font-type_neat {
+  font-family: 'Karla', sans-serif;
+}
+
+.font-size_large {
+  font-size: 4rem;
+}
+.font-size_regular {
+  font-size: 2rem;
+}
+.font-size_small {
+  font-size: 1.5rem;
+}
+.font-size_x-small {
+  font-size: 1rem;
+}
+
+.color_fog {
+  color: #b6b6b6;
+}
+
+.color_ash {
+  color: #dadada;
+}
+
+.color-bg_pine {
+  background-color: #289c01;
+}
+
+.color-bg_canyon {
+  background-color: #d54c1d;
+}
+
+.color-bg_night {
+  background-color: #343434;
+}
+
+.text-align_center {
+  text-align: center;
+}
+.text-align_right {
+  text-align: right;
+}
+
+.round_regular {
+  border-radius: 1rem;
+}
+
+.padding-regular {
+  padding: 1rem;
+}
+
+.margin-bottom_small {
+  margin-bottom: 0.5rem;
+}
+
+.placeholder {
+  min-width: 225px;
+  min-height: 275px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
